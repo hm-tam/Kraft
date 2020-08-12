@@ -1,0 +1,17 @@
+dateModified: 1597241467
+email:
+  fromEmail: tam@holmesmillet.com
+  fromName: 'Craft Sandbox'
+  transportType: craft\mail\transportadapters\Sendmail
+system:
+  edition: solo
+  live: true
+  name: 'Craft Sandbox'
+  schemaVersion: 3.5.12
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true
